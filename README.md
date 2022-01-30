@@ -24,7 +24,7 @@ The primary objective behind this game is to narrate the story/plot of the chose
 - If the right symbol is placed in the right blank, then ‘A’ will mark it with a circle drawn around the symbol
 - If the right symbol is used but placed in the wrong blank, then ‘A’ will mark it with a line drawn below that symbol
 - If a wrong symbol is used, A will not mark it at all. 
-- - If in a round, if a ‘P1’ or ‘P2’ guess two consecutive blanks correctly, then a third blank answer is revealed to them. This is a power-up/ bonus.
+- If in a round, if a ‘P1’ or ‘P2’ guess two consecutive blanks correctly, then a third blank answer is revealed to them. This is a power-up/ bonus.
 - Following this, that player must guess the final two blanks within the next three chances or they will be eliminated.
 - Or, the player can refuse the clue and continue with the game with the rest of their chances.
 - If ‘P1’ or ‘P2’ get only one blank correct and remain in the same condition for 2 consecutive rounds, then their remaining number of chances to guess are five or till they finish 10 chances in total (whichever first)
