@@ -7,10 +7,10 @@ The game is based on concepts picked up from the movie Arrival. The players in t
 In 12 parts of the world, alien spaceships have appeared. A Linguist was hired by the Government to decode the language of the aliens. While they are trying to crack the language/ decode the code, they are faced with challenges. An example of it could be when the Government orders a strike against the aliens and that puts pressure on the linguist to decode the message much faster in order to prevent the war. As the linguist dwells deeper into understanding the code, their perception of time changes. Language is the key to how we understand things. When the linguist begins to grasp the concept of the alien language, they begin to perceive time as a non-linear entity.
 This game mainly focuses on the ‘decoding’ aspect of the movie. The rules - power-ups and hurdles are all based on how the storyline of the movie proceeds.
 
-#Concept Note
+# Concept Note
 The primary objective behind this game is to narrate the story/plot of the chosen movie (Arrival). The movie had various concepts that could be explored, but we chose to explore the concepts of language, decoding, nonlinear time perception and determinism and freewill. The game rules and their resulting actions are based on events that occur in the movie.
 
-#Gameplay Instructions
+# Gameplay Instructions
 - The game is played between 3 players. 2 players (P1 and P2) who are the linguists and one player (A) who is the alien (code-maker)
 - Each player is provided a sheet of paper with a table pre-drawn.
 - First, the decided player ‘A’ will choose a pattern of 5 consisting of the symbols provided (out of 8 that are provided) and note it down.
